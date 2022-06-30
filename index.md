@@ -21,6 +21,7 @@ Main Programming Language: C/C++, Python, Mathematica
 ## Research Interests
 
 - **Computer Graphics**
+- **Image Processing**
 - **Machine Learning**
 
 ## Projects
