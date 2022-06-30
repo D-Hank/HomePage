@@ -6,6 +6,8 @@ layout: homepage
 
 Hi. I'm Hankun Dai, an undergraduate student of University of Chinese Academy of Sciences (UCAS).
 
+Main Programming Language: C/C++, Python, Mathematica
+
 ## Education
 
 - Bachelor, University of Chinese Academy of Sciences, Beijing, China [2019.08 ~ Now]
