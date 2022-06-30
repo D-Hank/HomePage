@@ -39,7 +39,7 @@ Main Programming Language: C/C++, Python, Mathematica
 
 ## Research Experience
 
-- 2021.01 ~ 2021.04 Internship at IGL, ICT
+- 2021.01 ~ 2021.04 Internship at IGL, ICT, supervised by Prof. Lin GAO
   <br>
-  Award for Dog-Classification Task in Tsinghua AI Competition, supervised by Prof. Lin GAO
-- 2022.01 ~ 2022.04 Internship at IGL, ICT
+  Award for Dog-Classification Task in Tsinghua's Jittor AI Competition
+- 2022.01 ~ 2022.04 Internship at IGL, ICT, supervised by Prof. Lin GAO
