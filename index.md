@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi. I'm DHank, an undergraduate student of University of Chinese Academy of Sciences (UCAS).
+Hi. I'm Hankun Dai, an undergraduate student of University of Chinese Academy of Sciences (UCAS).
 
 ## Education
 
