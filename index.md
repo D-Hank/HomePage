@@ -4,47 +4,40 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi. I'm DHank, an undergraduate student of University of Chinese Academy of Sciences (UCAS).
+
+## Education
+
+- Bachelor, University of Chinese Academy of Sciences, Beijing, China [2019.08 ~ Now]
+  <br>
+  Major: Computer Science.  GPA: 3.81 / 4.0
+  <br>
+  Minor: Mathematics
+  <br>
+- (Future) Visiting Student, University of California, Berkeley, USA [2022.08 ~ 2022.12]
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Graphics**
+- **Machine Learning**
 
-## News
+## Projects
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- An implementation and improvement of TVCG PRS-Net. [Click for git-repo](https://github.com/D-Hank/PRS-Net)
+- A pytorch implementation of ECCV NeRF. [Click for git-repo](https://github.com/D-Hank/NeRF-tiny)
+- A Unix-like Operating System based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
+- A C-subset Compiler based on ANTLR. (Coming soon...)
+- A Query System based on memory database. (Coming soon...)
+- A LoongArch CPU able to boot Linux on FPGA.
 
-## Publications
+## Awards
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- Outstanding Student of 2020 ~ 2021, UCAS
+- Academic Scholarship of 2020 ~ 2021, UCAS
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+## Research Experience
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- 2021.01 ~ 2021.04 Internship at IGL, ICT
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+  Award for Dog-Classification Task in Tsinghua AI Competition, supervised by Prof. Lin GAO
+- 2022.01 ~ 2022.04 Internship at IGL, ICT
