@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi. I'm Hankun Dai, an undergraduate student of University of Chinese Academy of Sciences (UCAS).
+Hi. I'm Hankun Dai, an undergraduate student from University of Chinese Academy of Sciences (UCAS).
 
-Main Programming Language: C/C++, Python, Mathematica
+Main Programming Languages: C/C++, Python, Mathematica
 
 ## Education
 
@@ -28,9 +28,9 @@ Main Programming Language: C/C++, Python, Mathematica
 
 - An implementation and improvement of TVCG PRS-Net. [Click for git-repo](https://github.com/D-Hank/PRS-Net)
 - A pytorch implementation of ECCV NeRF. [Click for git-repo](https://github.com/D-Hank/NeRF-tiny)
-- A Unix-like Operating System based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
-- A C-subset Compiler based on ANTLR. (Coming soon...)
-- A Query System based on memory database. (Coming soon...)
+- A Unix-like operating system based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
+- A C-subset compiler based on ANTLR. [Click for git-repo](https://github.com/D-Hank/UCAS-Compiler)
+- A query system based on memory database. (Coming soon...)
 - A LoongArch CPU able to boot Linux on FPGA.
 
 ## Awards
