@@ -16,7 +16,7 @@ Main Programming Languages: C/C++, Python, Mathematica
   <br>
   Minor: Mathematics
   <br>
-- (Future) Visiting Student, University of California, Berkeley, USA [2022.08 ~ 2022.12]
+- Visiting Student, University of California, Berkeley, USA [2022.08 ~ 2022.12]
 
 ## Research Interests
 
@@ -30,8 +30,8 @@ Main Programming Languages: C/C++, Python, Mathematica
 - A pytorch implementation of ECCV NeRF. [Click for git-repo](https://github.com/D-Hank/NeRF-tiny)
 - A Unix-like operating system based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
 - A C-subset compiler based on ANTLR. [Click for git-repo](https://github.com/D-Hank/UCAS-Compiler)
-- A query system based on memory database. (Coming soon...)
-- A LoongArch CPU able to boot Linux on FPGA.
+- A query system based on memory database. [Click for git-repo](https://github.com/D-Hank/UCAS-Database-System)
+- A LoongArch CPU able to boot Linux on FPGA. [Click for git-repo](https://github.com/D-Hank/UCAS-Computer-Architecture)
 
 ## Awards
 
@@ -40,7 +40,7 @@ Main Programming Languages: C/C++, Python, Mathematica
 
 ## Research Experience
 
-- 2021.01 ~ 2021.04 Internship at IGL, ICT, supervised by Prof. Lin GAO
+- 2021.01 ~ 2021.04 Internship at IGL, ICT, advised by Prof. [Lin GAO](http://www.geometrylearning.com)
   <br>
   Award for Dog-Classification Task in Tsinghua's Jittor AI Competition
-- 2022.01 ~ 2022.04 Internship at IGL, ICT, supervised by Prof. Lin GAO
+- 2022.01 ~ 2022.04 Internship at IGL, ICT, advised by Prof. Lin GAO
