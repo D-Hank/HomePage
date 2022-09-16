@@ -28,10 +28,10 @@ Main Programming Languages: C/C++, Python, Mathematica
 
 - An implementation and improvement of TVCG PRS-Net. [Click for git-repo](https://github.com/D-Hank/PRS-Net)
 - A pytorch implementation of ECCV NeRF. [Click for git-repo](https://github.com/D-Hank/NeRF-tiny)
-- A Unix-like operating system based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
-- A C-subset compiler based on ANTLR. [Click for git-repo](https://github.com/D-Hank/UCAS-Compiler)
-- A query system based on memory database. [Click for git-repo](https://github.com/D-Hank/UCAS-Database-System)
-- A LoongArch CPU able to boot Linux on FPGA. [Click for git-repo](https://github.com/D-Hank/UCAS-Computer-Architecture)
+- Unix-like operating system based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
+- C-subset compiler based on ANTLR. [Click for git-repo](https://github.com/D-Hank/UCAS-Compiler)
+- Query system based on memory database. [Click for git-repo](https://github.com/D-Hank/UCAS-Database-System)
+- LoongArch CPU able to boot Linux on FPGA. [Click for git-repo](https://github.com/D-Hank/UCAS-Computer-Architecture)
 
 ## Awards
 
