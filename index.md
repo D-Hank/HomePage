@@ -4,43 +4,50 @@ layout: homepage
 
 ## About Me
 
-Hi. I'm Hankun Dai, an undergraduate student from University of Chinese Academy of Sciences (UCAS).
+Hi. I'm Hankun Dai, a second-year master student in University of Chinese Academy of Sciences (UCAS).
 
-Main Programming Languages: C/C++, Python, Mathematica
+I'm now building an AI-powered system to find faster algorithms, like DeepMind's [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/).  If you are interested, please feel free to drop me an email.
+
+Main Programming Languages: C/C++, Python, CUDA, Mathematica
 
 ## Education
 
-- Bachelor, University of Chinese Academy of Sciences, Beijing, China [2019.08 ~ Now]
+- Bachelor, University of Chinese Academy of Sciences, Beijing, China [2019.08 ~ 2023.07]
   <br>
-  Major: Computer Science.  GPA: 3.81 / 4.0
-  <br>
-  Minor: Mathematics
+ GPA: 3.81 / 4.0
   <br>
 - Visiting Student, University of California, Berkeley, USA [2022.08 ~ 2022.12]
+  <br>
+ GPA: 4.0 / 4.0
+  <br>
+- Master, University of Chinese Academy of Sciences, Beijing, China [2023.09 ~ Now]
+  <br>
+ GPA: 3.9 / 4.0
+  <br>
 
 ## Research Interests
 
-- **Computer Graphics**
-- **Image Processing**
+- **Computer Systems**
 - **Machine Learning**
 
 ## Projects
 
-- An implementation and improvement of TVCG PRS-Net. [Click for git-repo](https://github.com/D-Hank/PRS-Net)
-- A pytorch implementation of ECCV NeRF. [Click for git-repo](https://github.com/D-Hank/NeRF-tiny)
-- Unix-like operating system based on dual core RocketChip. [Click for git-repo](https://github.com/D-Hank/UCAS-OSLAB)
-- C-subset compiler based on ANTLR. [Click for git-repo](https://github.com/D-Hank/UCAS-Compiler)
-- Query system based on memory database. [Click for git-repo](https://github.com/D-Hank/UCAS-Database-System)
-- LoongArch CPU able to boot Linux on FPGA. [Click for git-repo](https://github.com/D-Hank/UCAS-Computer-Architecture)
+Selected computer systems I've built:
+
+- Unix-like operating system based on dual core RocketChip. [Git-repo](https://github.com/D-Hank/UCAS-OSLAB)
+- C-subset compiler based on ANTLR. [Git-repo](https://github.com/D-Hank/UCAS-Compiler)
+- Memory database query engine. [Git-repo](https://github.com/D-Hank/UCAS-Database-System)
+- Pipelined CPU able to boot Linux on FPGA. [Git-repo](https://github.com/D-Hank/UCAS-Computer-Architecture)
+
+I also reimplemented some AI-related work, including:
+
+[TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
+
+## Thesis
+
+Optimization and Acceleration of Atmospheric Model FV3 on AMD GPUs
 
 ## Awards
 
 - Outstanding Student of 2020 ~ 2021, UCAS
 - Academic Scholarship of 2020 ~ 2021, UCAS
-
-## Research Experience
-
-- 2021.01 ~ 2021.04 Internship at IGL, ICT, advised by Prof. [Lin GAO](http://www.geometrylearning.com)
-  <br>
-  Award for Dog-Classification Task in Tsinghua's Jittor AI Competition
-- 2022.01 ~ 2022.04 Internship at IGL, ICT, advised by Prof. Lin GAO
