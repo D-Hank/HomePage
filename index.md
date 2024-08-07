@@ -38,7 +38,7 @@ Selected computer systems I've built:
 
 I also reimplemented some AI-related work, including:
 
-[TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
+    [TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
 
 ## Thesis
 
