@@ -25,7 +25,7 @@ I'm now building an AI-powered system to find faster algorithms, like DeepMind's
 
 ## Research Interests
 
-I'm interested in building complex **computer systems** and studying how they can be combined with **machine learning**.
+I'm interested in building complex <font color="navy">**computer systems**</font> and studying how they can be combined with <font color="navy">**machine learning**</font>.
 
 ## Projects
 
