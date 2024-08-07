@@ -31,14 +31,14 @@ I'm interested in building complex <font color="navy"><b>computer systems</b></f
 
 Selected computer systems I've built:
 
-- Operating system running on dual core RISC-V RocketChip [Git repo](https://github.com/D-Hank/UCAS-OSLAB)
-- Tiny C compiler based on ANTLR [Git repo](https://github.com/D-Hank/UCAS-Compiler)
-- Memory database query engine [Git repo](https://github.com/D-Hank/UCAS-Database-System)
-- Pipelined CPU able to boot Linux on FPGA [Git repo](https://github.com/D-Hank/UCAS-Computer-Architecture)
+- Operating system running on dual core RISC-V RocketChip [[Git repo](https://github.com/D-Hank/UCAS-OSLAB)]
+- Tiny C compiler based on ANTLR [[Git repo](https://github.com/D-Hank/UCAS-Compiler)]
+- Memory database query engine [[Git repo](https://github.com/D-Hank/UCAS-Database-System)]
+- Pipelined CPU able to boot Linux on FPGA [[Git repo](https://github.com/D-Hank/UCAS-Computer-Architecture)]
 
 I also reimplemented some AI-related work, including:
 
-&emsp;&emsp;[TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
+&emsp;&emsp;&ensp;[TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
 
 ## Thesis
 
