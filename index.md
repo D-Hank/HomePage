@@ -25,7 +25,7 @@ I'm now building an AI-powered system to find faster algorithms, like DeepMind's
 
 ## Research Interests
 
-I'm interested in building complex <font color="navy">**computer systems**</font> and studying how they can be combined with <font color="navy">**machine learning**</font>.
+I'm interested in building complex <font color="navy"><b>computer systems</b></font> and studying how they can be combined with <font color="navy"><b>machine learning</b></font>.
 
 ## Projects
 
@@ -38,7 +38,7 @@ Selected computer systems I've built:
 
 I also reimplemented some AI-related work, including:
 
-    [TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
+&emsp;&emsp;[TVCG PRS-Net](https://github.com/D-Hank/PRS-Net) (with some improvement), [ECCV NeRF](https://github.com/D-Hank/NeRF-tiny)
 
 ## Thesis
 
