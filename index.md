@@ -6,7 +6,7 @@ layout: homepage
 
 Hi. I'm Hankun Dai, a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences.
 
-I'm now building an AI-powered system to find faster algorithms, like DeepMind's [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/). If you are interested and would like to talk, please feel free to drop me an email.
+I'm now building an AI-powered system to find faster matrix multiplication algorithms, like DeepMind's [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/). If you are interested and would like to talk, please feel free to drop me an email.
 
 ## Education
 
@@ -25,7 +25,7 @@ I'm now building an AI-powered system to find faster algorithms, like DeepMind's
 
 ## Research Interests
 
-I'm interested in building complex <font color="navy"><b>computer systems</b></font> and studying how they can be combined with <font color="navy"><b>machine learning</b></font>.
+I'm interested in building complex <font color="navy"><b>computer systems</b></font> and studying how they can be combined with <font color="navy"><b>machine learning</b></font> (systems to boost ML and ML algorithms to design better systems).
 
 ## Projects
 
@@ -42,13 +42,13 @@ I also reimplemented some AI-related work, including:
 
 ## Thesis
 
-Optimization and Acceleration of Atmospheric Model FV3 on AMD GPUs
+Porting and optimization of an atmospheric model core FV3 on GPU heterogeneous systems
 
 ## Awards
 
 - Outstanding Student of 2020 ~ 2021, UCAS
 - Academic Scholarship of 2020 ~ 2021, UCAS
 
-## Beyond Academia
+## Leisure Life
 
 Love to try different things. Now focus on travelling, photography and rock & roll.
