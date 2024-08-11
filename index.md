@@ -51,12 +51,12 @@ Porting and optimization of an atmospheric model core FV3 on GPU heterogeneous s
 
 ## Contact
 
-The first choice is email. Other ways should be ok. For some reasons, I contribute to [Gitee](https://gitee.com/dhank) more often than my github.
+The first choice is email. Other ways should be ok. For some reasons, I contribute to [gitee](https://gitee.com/dhank) more often than my github.
 
 ## Leisure Life
 
 Love to try different things. Now focus on:
 
-- Tavelling
+- Travelling
 - Photography
 - Rock & Roll
