@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi. I'm Hankun Dai, a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences.
+Hi. I'm Hankun Dai (or you can simply call me Hank), a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences.
 
-I'm now building an AI-powered system to find faster distributed algorithms, like DeepMind's [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/). If you are interested and would like to talk, please feel free to drop me an email.
+I'm now building an AI-powered system to find faster distributed algorithms, inspired by DeepMind's [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/). If you are interested and would like to talk, please feel free to drop me an email.
 
 ## Education
 
@@ -49,6 +49,14 @@ Porting and optimization of an atmospheric model core FV3 on GPU heterogeneous s
 - Outstanding Student of 2020 ~ 2021, UCAS
 - Academic Scholarship of 2020 ~ 2021, UCAS
 
+## Contact
+
+The first choice is email. Other ways should be ok. For some reasons, I contribute to [Gitee](https://gitee.com/dhank) more often than my github.
+
 ## Leisure Life
 
-Love to try different things. Now focus on travelling, photography and rock & roll.
+Love to try different things. Now focus on:
+
+- Tavelling
+- Photography
+- Rock & Roll
