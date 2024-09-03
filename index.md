@@ -12,7 +12,7 @@ I'm now building an AI-powered system to find faster distributed algorithms, ins
 
 - Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China [2023.09 ~ Now]
   <br>
- GPA: 3.9 / 4.0
+ GPA: 3.96 / 4.0
   <br>
 - Visiting Student, University of California, Berkeley, USA [2022.08 ~ 2022.12]
   <br>
