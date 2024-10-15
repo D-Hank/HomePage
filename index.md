@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi. I'm Hankun Dai (or you can simply call me Hank), a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences.
+Hi. I'm Hankun Dai (or you can simply call me Hank), a second-year master student at University of Chinese Academy of Sciences.
 
 I'm now building an AI-powered system to find faster distributed algorithms, inspired by DeepMind's [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/). If you are interested and would like to talk, please feel free to drop me an email.
 
 ## Education
 
-- Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China [2023.09 ~ Now]
+- Master, University of Chinese Academy of Sciences, Beijing, China [2023.09 ~ Now]
   <br>
  GPA: 3.96 / 4.0
   <br>
