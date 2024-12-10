@@ -42,7 +42,7 @@ I also reimplemented some AI-related work, including:
 
 ## Thesis
 
-Porting and optimization of an atmospheric model core FV3 on GPU heterogeneous systems
+Porting and optimization of atmospheric model core FV3 on GPU heterogeneous systems
 
 ## Awards
 
